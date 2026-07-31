@@ -5,8 +5,8 @@
 %global crate csv
 
 Name:           rust-%{crate}
-Version:        1.1.3
-Release:        2%{?dist}
+Version:        1.4.0
+Release:        1%{?dist}
 Summary:        Fast CSV parsing with support for serde
 
 # Upstream license specification: Unlicense/MIT
